@@ -11,10 +11,16 @@
 **Data & Auth:** PostgreSQL · Oracle · Auth0 · real-time data processing
 **AI/ML:** Python · PyTorch · Postgraduate in AI (University of Texas)
 
-### 🚀 Featured projects
+### 🚀 Featured work — the TransitFlow trilogy
+*One event-driven transit-ticketing platform, implemented three ways — same distributed-systems design (orchestrated SAGA, transactional outbox, idempotent consumers, database-per-service), each idiomatic to its language:*
+
+- **[transitflow](https://github.com/Feliper83/transitflow)** ☕ — Java / Spring Boot 3, Kafka, JPA, Spring Cloud Gateway.
+- **[transitflow-go](https://github.com/Feliper83/transitflow-go)** 🐹 — Go, chi, pgx, kafka-go.
+- **[transitflow-py](https://github.com/Feliper83/transitflow-py)** 🐍 — Python, FastAPI, SQLAlchemy async, aiokafka.
+
+### More projects
 - **[mini-gpt](https://github.com/Feliper83/mini-gpt)** — A GPT decoder-only transformer built from scratch in PyTorch, module by module.
 - **[lms](https://github.com/Feliper83/lms)** — Library Management System in Java.
-- **[gotraining](https://github.com/Feliper83/gotraining)** — Go language exercises and learning notes.
 
 ### 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-feres/)
